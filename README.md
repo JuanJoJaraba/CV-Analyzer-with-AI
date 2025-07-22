@@ -48,4 +48,3 @@ OPENAI_API_KEY=sk-...
 4. Ejecuta la app:
 streamlit run app/dashboard.py
 
-<img width="1037" height="862" alt="image" src="https://github.com/user-attachments/assets/69cfab85-d842-4b9c-91ee-00802935c665" />
