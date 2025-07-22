@@ -2,7 +2,6 @@
 
 Este proyecto es una herramienta inteligente desarrollada con Python y Streamlit que permite analizar hojas de vida (CVs) automáticamente usando inteligencia artificial.
 
-![Vista previa](app/assets/preview.png)
 
 ---
 
@@ -27,26 +26,6 @@ Este proyecto es una herramienta inteligente desarrollada con Python y Streamlit
 - `re`, `spacy` (procesamiento de texto)  
 - `pandas` (registro histórico)
 
----
-
-## 🗂️ Estructura del proyecto
-
-CV-Analyzer-with-AI/
-│
-├── app/
-│ ├── analyzer.py # Extrae datos clave del CV
-│ ├── dashboard.py # Interfaz Streamlit
-│ ├── matcher.py # Calcula coincidencia con vacantes
-│ ├── recommender.py # Recomendaciones automáticas con IA
-│ ├── resume_parser.py # Lector de PDFs y DOCX
-│ ├── summarizer.py # Generador de resumen con IA
-│ ├── utils.py # Utilidades comunes
-│ ├── data/ # CVs y datos históricos (salida)
-│ └── assets/ # Imágenes y estilos
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
 ---
 
 ## ⚙️ Cómo usar
