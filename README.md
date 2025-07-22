@@ -2,7 +2,9 @@
 
 Este proyecto es una herramienta inteligente desarrollada con Python y Streamlit que permite analizar hojas de vida (CVs) automáticamente usando inteligencia artificial.
 
+### 🖼 Vista previa
 
+![Vista previa del proyecto](https://i.imgur.com/U7VaPzI.jpeg)
 ---
 
 ## 🚀 ¿Qué hace?
